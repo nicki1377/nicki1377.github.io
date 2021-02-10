@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: #066222;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #ffffff;
+    font-family: 'Crimson Text', serif; 
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.button {
+    border: none;
+    color: #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: grab;
+    background-color: #bebebe
+}
